@@ -1,0 +1,23 @@
+{
+  "name": "package-testdasdasf",
+  "version": "1.0.0",
+  "description": "Is a package test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaikoXander/package-testdasdasf.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ZaikoXander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZaikoXander/package-testdasdasf/issues"
+  },
+  "homepage": "https://github.com/ZaikoXander/package-testdasdasf#readme"
+}
